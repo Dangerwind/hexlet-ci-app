@@ -1,3 +1,5 @@
+[![my-tests](https://github.com/Dangerwind/hexlet-ci-app/actions/workflows/my-tests.yml/badge.svg)](https://github.com/Dangerwind/hexlet-ci-app/actions/workflows/my-tests.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
